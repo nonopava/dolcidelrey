@@ -31,8 +31,7 @@ h1 {
 
 @media only screen and (min-width: 320px) and (max-width: 1000px) {
      div {
-    width: 80%;
-    margin: 0 auto;
+
     text-aling: center;
 }
  img {
