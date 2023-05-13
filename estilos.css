@@ -33,11 +33,11 @@ h1 {
      div {
     width: 80%;
     margin: 0 auto;
+    text-align: center;
 }
  img {
       width: 90%;
-      height: 50%;
-      margin: 7%;  
+      height: 70%  
 }
      h1 {
           font-size: 150%;   
