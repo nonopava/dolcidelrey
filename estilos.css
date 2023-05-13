@@ -10,8 +10,7 @@ audio {
 
 
  div {
-    width: 90%;
-    margin: 0 auto;
+   text-align: center;
 }
 
 img {
@@ -25,7 +24,7 @@ h1 {
     color: #FFF;
     font-style: oblique;
     font-weight: bold;
-    text-align: center
+    
     
 }
 
