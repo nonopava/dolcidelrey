@@ -1,0 +1,25 @@
+body {
+     background-image: url(backamor.jpg);
+     background-color: blanchedalmond;
+}
+
+/* div {
+    width: 90%;
+    margin: 0 auto;
+}*/
+
+img {
+    width: 50%;
+    height: 500px;
+    margin-left: 25%;
+    float: ;
+   
+}
+
+h1 {
+    color: #FFF;
+    font-style: oblique;
+    font-weight: bold;
+    text-align: center;
+}
+
