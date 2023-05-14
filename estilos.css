@@ -9,19 +9,23 @@ audio {
 }
 
 
- div {
+ /*div {
     width: 90%;
     margin: 0 auto;
 }
-
+*/
 img {
     width: 50%;
     height: 500px;
-    margin-left: 25%
    
 }
 
+#img {
+     text-align: center;
+}
+
 h1 {
+    margin-right: 15%;
     color: #FFF;
     font-style: oblique;
     font-weight: bold;
@@ -30,18 +34,17 @@ h1 {
 }
 
 @media only screen and (min-width: 320px) and (max-width: 1000px) {
-     div {
-    width: 100%;
+    /* div {
+    width: 80%;
     margin: 0 auto;
-    
-}
+}*/
  img {
-      width: 100%;
-      height: 100% 
-      margin: 0 auto;
+      width: 110%;
+      height: 100%; 
 }
      h1 {
           font-size: 150%;   
+          margin-right: 0 auto;
 }
      
      audio {
